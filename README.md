@@ -4,6 +4,9 @@
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Hirantha Dissanayake</h1>
 <h3 align="center">Undergraduate in Software Engineering At CINEC Campus</h3>
