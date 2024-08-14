@@ -13,10 +13,13 @@
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Undergraduate+in+Software+Engineering+At+CINEC+Campus!&center=true&width=1000&height=50"></h3>
 
 ---
-
+<p align="center">
 - 🌱 I’m currently learning **Flutter,ReactJs,NextJs**
 
 - 📫 How to reach me **hiranthamalindu46@gmail.com**
+</p>
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
