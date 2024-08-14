@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hirantha Dissanayake</h1>
 <h3 align="center">Undergraduate in Software Engineering At CINEC Campus</h3>
 
-...
+---
 
 - 🌱 I’m currently learning **Flutter,ReactJs,NextJs**
 
