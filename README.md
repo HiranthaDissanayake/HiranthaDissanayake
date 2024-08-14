@@ -8,7 +8,7 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Hirantha Dissanayake</h1>
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Hirantha Dissanayake</h1>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Undergraduate+in+Software+Engineering+At+CINEC+Campus!&center=true&width=1000&height=50"></h3>
 
 ---
