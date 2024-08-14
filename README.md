@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-<picture><p align="center"><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></p></picture>
+<picture><p align="center"><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p></picture>
 
 <h1 align="center">Hi 👋, I'm Hirantha Dissanayake</h1>
 <h3 align="center">Undergraduate in Software Engineering At CINEC Campus</h3>
