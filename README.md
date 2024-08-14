@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Hirantha Dissanayake</h1>
-<h3 align="center">Undergraduate in Software Engineering At CINEC Campus</h3>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Undergraduate+in+Software+Engineering+At+CINEC+Campus!&center=true&width=450&height=50"></h3>
 
 ---
 
