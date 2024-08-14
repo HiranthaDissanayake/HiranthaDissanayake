@@ -15,7 +15,6 @@
 ---
 <p align="center">
 - 🌱 I’m currently learning **Flutter,ReactJs,NextJs**
-
 - 📫 How to reach me **hiranthamalindu46@gmail.com**
 </p>
 
