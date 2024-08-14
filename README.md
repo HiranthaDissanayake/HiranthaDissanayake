@@ -8,7 +8,8 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, </h1> <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ahmad!;I'm+a+Flutter+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Pakistani+🇵🇰)">
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Hirantha+Dissanayake!;I'm+a+Flutter+Developer...;I'm+also+Front+End+Web+Developer">
+</p>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Undergraduate+in+Software+Engineering+At+CINEC+Campus!&center=true&width=1000&height=50"></h3>
 
 ---
