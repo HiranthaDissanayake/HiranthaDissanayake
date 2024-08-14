@@ -14,8 +14,8 @@
 
 ---
 <p align="center">
- 🌱 I’m currently learning **Flutter,ReactJs,NextJs** <br>
- 📫 How to reach me **hiranthamalindu46@gmail.com**
+ 🌱 I’m currently learning - Flutter,ReactJs,NextJs <br>
+ 📫 How to reach me - hiranthamalindu46@gmail.com
 </p>
 
 
